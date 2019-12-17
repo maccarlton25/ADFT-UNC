@@ -1,0 +1,12 @@
+h1 {
+    color: rgb(49, 123, 188);
+}
+a {
+    color: rgb(237, 129, 43);
+}
+.bg-primary {
+    background-color: rgb(51, 51, 51);
+}
+.bg-secondary {
+    background-color: rgb(49, 123, 188);
+}
