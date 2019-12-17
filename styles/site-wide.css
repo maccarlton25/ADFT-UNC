@@ -3,6 +3,7 @@ h1 {
 }
 a {
     color: rgb(237, 129, 43);
+
 }
 .bg-primary {
     background-color: rgb(51, 51, 51);
@@ -12,4 +13,17 @@ a {
 }
 .bg-success {
     background-color: rgb(83, 186, 22);
+}
+.selected {
+    border: solid black 1px;
+}
+a:hover {
+    text-decoration: none;
+    color: rgb(237, 129, 43);
+}
+h3:hover {
+    font-weight: bolder;
+}
+.nav-container {
+    background-color: rgb(49, 123, 188);
 }

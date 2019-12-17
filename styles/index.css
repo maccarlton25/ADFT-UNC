@@ -1,0 +1,14 @@
+body {
+    background-image: url('../images/homepage-background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+h1 {
+    color: white;
+}
+.header-container {
+    height: 100vh;
+}
