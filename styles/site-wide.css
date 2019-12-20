@@ -1,5 +1,12 @@
 h1 {
     color: rgb(49, 123, 188);
+    font-size: xx-large;
+    font-family: 'Birdseye', sans-serif;
+    font-weight: 700 !important;
+    letter-spacing: -3px !important;
+    font-size: 9vw;
+    -webkit-font-smoothing: antialiased;
+    text-align: left;
 }
 a {
     color: rgb(237, 129, 43);
@@ -26,4 +33,8 @@ h3:hover {
 }
 .nav-container {
     background-color: rgb(49, 123, 188);
+}
+
+.text-center {
+    height: 1000;
 }
