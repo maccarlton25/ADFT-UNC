@@ -2,15 +2,20 @@ h1 {
     color: rgb(49, 123, 188);
     font-size: xx-large;
     font-family: 'Birdseye', sans-serif;
-    font-weight: 700 !important;
-    letter-spacing: -3px !important;
+    font-weight: 700;
+    letter-spacing: 2px;
     font-size: 9vw;
     -webkit-font-smoothing: antialiased;
-    text-align: left;
+    text-align: start;
+}
+h3 {
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
+    font-family: Tahoma, sans-serif;
 }
 a {
     color: rgb(237, 129, 43);
-
 }
 .bg-primary {
     background-color: rgb(51, 51, 51);
@@ -31,10 +36,13 @@ a:hover {
 h3:hover {
     font-weight: bolder;
 }
+.navbar-light {
+    text-align: right;
+    /* float: right; */
+}
 .nav-container {
     background-color: rgb(49, 123, 188);
 }
-
-.text-center {
-    height: 1000;
+.col-8 {
+    padding-left: 5%;
 }
