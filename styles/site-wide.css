@@ -23,7 +23,8 @@ a {
     background-color: rgb(83, 186, 22);
 }
 .selected {
-    border: solid black 1px;
+    font-weight: bolder;
+    color: white;
 }
 a:hover {
     text-decoration: none;
