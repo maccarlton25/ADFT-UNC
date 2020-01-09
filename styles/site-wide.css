@@ -1,17 +1,13 @@
 h1 {
     color: rgb(49, 123, 188);
-    font-size: xx-large;
     font-family: 'Birdseye', sans-serif;
     font-weight: 700;
     letter-spacing: 2px;
-    font-size: 9vw;
-    -webkit-font-smoothing: antialiased;
-    text-align: start;
+    font-size: 7vw;
 }
 h3 {
     padding-left: 15px;
     padding-right: 15px;
-    text-align: center;
     font-family: Tahoma, sans-serif;
 }
 a {

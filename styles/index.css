@@ -8,6 +8,11 @@ body {
 h1 {
     color: white;
 }
+
+h3 {
+    color: white;
+}
+
 .header-container {
     height: 100vh;
 }
