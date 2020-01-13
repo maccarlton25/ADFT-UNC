@@ -15,3 +15,7 @@ h3 {
 .header-container {
     height: 100vh;
 }
+
+.title {
+    margin-top: 30vh;
+}

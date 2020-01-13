@@ -1,15 +1,24 @@
 h1 {
     color: rgb(49, 123, 188);
-    font-family: 'Birdseye', sans-serif;
-    font-weight: 700;
-    letter-spacing: 2px;
+    font-family: 'Montserrat', sans-serif;
     font-size: 7vw;
+    text-align:center;
 }
 h3 {
-    padding-left: 15px;
-    padding-right: 15px;
-    font-family: Tahoma, sans-serif;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 70%;
+    padding-top: 7px;
 }
+h4 {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    text-align:center;
+}
+
 a {
     color: rgb(237, 129, 43);
 }
@@ -38,8 +47,13 @@ h3:hover {
     /* float: right; */
 }
 .nav-container {
+    text-align: center;
     background-color: rgb(49, 123, 188);
 }
 .col-8 {
     padding-left: 5%;
+}
+.center {
+    text-align: center;
+
 }

@@ -1,0 +1,11 @@
+.dark {
+    color: black;
+    text-align: left;
+}
+body {
+    background-color: lightgray;
+    background-image: url('../images/about-logo.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
