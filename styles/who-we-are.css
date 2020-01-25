@@ -1,7 +1,19 @@
 .dark {
     color: black;
     text-align: left;
+    padding-right: 3vw;
 }
+
+.about-image {
+    padding-left: 3vw;
+}
+
+@media only screen and (max-width: 767px) {
+    .media-pad {
+        padding-left: 3vw;
+    }
+}
+
 /*body {
     background-color: lightgray;
     background-image: url('../images/about-logo.jpg');
