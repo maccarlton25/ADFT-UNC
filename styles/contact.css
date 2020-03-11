@@ -4,8 +4,22 @@
     padding-bottom: 10%;
     margin-top: 10%;
     margin-bottom: 10%;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
     border-style: solid;
     border-color: rgb(49, 123, 188);
+}
+.box-text {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.box-form {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+@media only screen and (max-width: 767px) {
+    .box-boi {
+        margin-left: 10%;
+        margin-right: 10%;
+    }
 }
